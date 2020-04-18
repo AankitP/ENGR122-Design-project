@@ -7,5 +7,5 @@ void loop() {
   // put your main code here, to run repeatedly:
   int val = analogRead(1);
   Serial.println(val);
-  delay(1000);
+  delay(6000);
 }
